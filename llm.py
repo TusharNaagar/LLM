@@ -20,7 +20,7 @@ from langchain.prompts import PromptTemplate
 
 
 
-path = 'C:\\Users\\NaagarSahab\\Desktop\\sqlllm\\Dataset'
+path = 'Dataset path'
 files = os.listdir(path)
 
 
